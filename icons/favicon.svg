@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SandNook">
+  <rect width="64" height="64" rx="14" fill="#8f4f2f"/>
+  <path d="M16 17c0-2 1.6-3.6 3.6-3.6H48v34.2H23.5c-4.1 0-7.5-3.4-7.5-7.5V17Z" fill="#fff8ec"/>
+  <path d="M23.5 13.4v34.2" stroke="#1f5b45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M29 23h13M29 31h13M29 39h9" stroke="#8f4f2f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 50.6h28" stroke="#fff8ec" stroke-width="3" stroke-linecap="round"/>
+</svg>
